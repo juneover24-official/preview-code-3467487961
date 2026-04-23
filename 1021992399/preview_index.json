@@ -1,0 +1,67 @@
+{
+  "qq_number": "3467487961",
+  "group_number": "1021992399",
+  "updated_at": "2026-04-23T15:52:38.472234",
+  "skins": [
+    {
+      "name": "娇の永164",
+      "file": "娇の永164.bdi",
+      "thumb": "娇の永164.bdi_py_26_default_thumb.png",
+      "full": "娇の永164.bdi_py_26_default.png"
+    },
+    {
+      "name": "娇の永131",
+      "file": "娇の永131.bdi",
+      "thumb": "娇の永131.bdi_py_26_default_thumb.png",
+      "full": "娇の永131.bdi_py_26_default.png"
+    },
+    {
+      "name": "芋芋の永108",
+      "file": "芋芋の永108.bdi",
+      "thumb": "芋芋の永108.bdi_py_26_default_thumb.png",
+      "full": "芋芋の永108.bdi_py_26_default.png"
+    },
+    {
+      "name": "娇の掉落分享",
+      "file": "娇の掉落分享.bdi",
+      "thumb": "娇の掉落分享.bdi_py_26_default_thumb.png",
+      "full": "娇の掉落分享.bdi_py_26_default.png"
+    },
+    {
+      "name": "娇の永170",
+      "file": "娇の永170.bdi",
+      "thumb": "娇の永170.bdi_py_26_default_thumb.png",
+      "full": "娇の永170.bdi_py_26_default.png"
+    },
+    {
+      "name": "芋芋の永108",
+      "file": "芋芋の永108.bds",
+      "thumb": "芋芋の永108.bds_py_26_default_thumb.png",
+      "full": "芋芋の永108.bds_py_26_default.png"
+    },
+    {
+      "name": "娇の永164",
+      "file": "娇の永164.bds",
+      "thumb": "娇の永164.bds_py_26_default_thumb.png",
+      "full": "娇の永164.bds_py_26_default.png"
+    },
+    {
+      "name": "娇の永170",
+      "file": "娇の永170.bds",
+      "thumb": "娇の永170.bds_py_26_default_thumb.png",
+      "full": "娇の永170.bds_py_26_default.png"
+    },
+    {
+      "name": "娇の永131",
+      "file": "娇の永131.bds",
+      "thumb": "娇の永131.bds_py_26_default_thumb.png",
+      "full": "娇の永131.bds_py_26_default.png"
+    },
+    {
+      "name": "娇の掉落分享",
+      "file": "娇の掉落分享.bds",
+      "thumb": "娇の掉落分享.bds_py_26_default_thumb.png",
+      "full": "娇の掉落分享.bds_py_26_default.png"
+    }
+  ]
+}
